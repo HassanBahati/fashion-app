@@ -1,6 +1,6 @@
-# kris_amo_ug
+# fashion app
 
-An application for an online ecommerce shop.
+An application for an online ecommerce fashion shop.
 
 ## Getting Started
 
